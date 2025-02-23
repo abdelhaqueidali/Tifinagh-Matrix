@@ -4,7 +4,7 @@ const context = canvas.getContext('2d')
 canvas.width = window.innerWidth
 canvas.height = window.innerHeight
 
-const tifinagh = "ⴰⴱⴳⴷⴹⴻⴼⴽⵀⵃⵄⵅⵇⵉⵊⵍⵯⵥⵣⵢⵡⵟⵜⵛⵚⵙⵖⵕⵔⵓⵏⵎⴲⴴⴵⴶⴸⴺⴿⵁⵒⵝⵞⵠ"
+const tifinagh = "ⴰⴱⴳⴷⴹⴻⴼⴽⵀⵃⵄⵅⵇⵉⵊⵍⵎⵏⵓⵔⵕⵖⵙⵚⵛⵜⵟⵡⵢⵣⵥⵯ"
 const nums = '0123456789'
 
 const alphabet = tifinagh + nums
